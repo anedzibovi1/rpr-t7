@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<drzave>
+    <drzava naziv="BiH" brojStanovnika="3500000" povrsina="50000" jedinicaZaPovrsinu="km2">
+        <glavniGrad naziv="Sarajevo" brojStanovnika="300000" velicinaNiza="5">
+            <temperature>
+                <double>5.4</double>
+                <double>15.8</double>
+                <double>2.3</double>
+                <double>0.44</double>
+                <double>-1.1</double>
+            </temperature>
+        </glavniGrad>
+    </drzava>
+
+    <drzava naziv="Germany" brojStanovnika="80000000" povrsina="360000" jedinicaZaPovrsinu="km2">
+        <glavniGrad naziv="Berlin" brojStanovnika="3000000" velicinaNiza="3">
+            <temperature>
+                <double>-2.5</double>
+                <double>10</double>
+                <double>0</double>
+            </temperature>
+        </glavniGrad>
+    </drzava>
+</drzave>
